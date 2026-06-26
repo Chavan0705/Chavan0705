@@ -25,7 +25,7 @@
 
 Highly motivated **Computer Science Engineering student** specializing in **Artificial Intelligence & Data Analytics** at MIT-ADT University. Experienced in full-stack enterprise Java development, building machine learning models, deploying analytical dashboards, and conducting artificial intelligence research.
 
-* 🎓 **Academic Path:** B.Tech CSE (AI & Analytics) | MIT-ADT University (2023 - 2027) | **CGPA: 7.92**
+* 🎓 **Academic Path:** B.Tech CSE (AI & Analytics) | MIT-ADT University (2023 - 2027) | **CGPA: 8.02**
 * 💼 **Core Expertise:** Enterprise Java Architecture (Spring Boot), Next.js Framework, & Relational Databases
 * 🧠 **Research Interests:** Natural Language Processing (NLP), Predictive Modeling, & Smart Contracts
 * 📊 **Business Intelligence:** Data Modeling and ETL Pipelines utilizing Power BI & Tableau
