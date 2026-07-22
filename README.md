@@ -91,7 +91,7 @@ Highly motivated **Computer Science Engineering student** specializing in **Arti
 
 ## 💼 Professional Experience
 
-### **Full Stack Developer Intern** | *Ilexity Technology Pvt Ltd*
+### **Full Stack Developer Intern** | *AIlexity Technology Pvt Ltd*
 > **June 2025 – July 2025**
 * Orchestrated development of an enterprise-grade **Customer Relationship Management (CRM) Web Application**.
 * Engineered modular **REST APIs** utilizing **Spring Boot** and managed relational persistence through **MySQL**.
